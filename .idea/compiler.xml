@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="config-server" />
+        <module name="consumer-service" />
+        <module name="demo" />
+        <module name="eureka-server" />
+        <module name="hello-service" />
+        <module name="login-service" />
+        <module name="out-cosumer" />
+        <module name="word-service" />
+        <module name="zuul-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="config-server" target="1.8" />
+      <module name="consumer-service" target="1.8" />
+      <module name="demo" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="hello-service" target="1.8" />
+      <module name="login-service" target="1.8" />
+      <module name="out-cosumer" target="1.8" />
+      <module name="word-service" target="1.8" />
+      <module name="zuul-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

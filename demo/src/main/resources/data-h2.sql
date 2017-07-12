@@ -1,0 +1,2 @@
+INSERT INTO BOOK VALUES(1, 'book one');
+INSERT INTO BOOK VALUES(2, 'book two');
